@@ -7,5 +7,4 @@
 
 ## ☁ SNS
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/> :point_right: @khyunsuuu <p>
-<img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/> :point_right: https://velog.io/@hyunsus <p>
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/> :point_right: dkrl0256@gmail.com
